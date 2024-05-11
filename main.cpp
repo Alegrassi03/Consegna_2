@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-//
+
 using namespace std;
 
 // compilazione: g++ lezione8-13-tree-dot.c
@@ -38,7 +38,7 @@ int max_dim = 0;
 int ntests = 1;
 int ndiv = 1;
 int details = 0;
-int graph = 0;
+int graph = 1;
 
 int n = 0; /// dimensione dell'array
 
