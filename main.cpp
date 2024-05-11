@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-
+//
 using namespace std;
 
 // compilazione: g++ lezione8-13-tree-dot.c
